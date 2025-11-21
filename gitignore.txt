@@ -60,3 +60,6 @@ coverage/
 
 # Turbo (if using Turborepo or Turbo with Next.js)
 .turbo/
+
+node_modules/
+.next/
